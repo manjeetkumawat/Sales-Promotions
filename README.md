@@ -12,3 +12,5 @@ SQL Script : problem_statement.SQL
 PowerBI File : Sales_Promotions_AtliQMart.pbix
 
 DataSource : https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+![Sales and Promotions](https://github.com/manjeetkumawat/Sales-Promotions/assets/131505771/663f6571-c1a8-486d-9b49-4748eb0733a1)
